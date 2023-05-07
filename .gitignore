@@ -1,0 +1,5 @@
+*.c
+*.cpp
+.DS_Store
+*.h
+*.json
